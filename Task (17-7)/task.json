@@ -1,0 +1,26 @@
+[
+    {
+    "Name": "Lama",
+    "Age" : "28",
+    "Major" : " Computer Engineering",
+    "University": " Yarmouk",
+    "Image" : "img1.png"
+} ,
+
+{
+    "Name": "Hala",
+    "Age" : "25",
+    "Major" : " Industrial Engineering",
+    "University": " Yarmouk",
+    "Image" : "img3.png"   
+} ,
+
+{
+"Name": "Deema",
+"Age" : "27",
+"Major" : " Pharmacy",
+"University": " JUST",
+"Image" : "img3.png"
+}
+
+]
